@@ -12,5 +12,4 @@ The command to launch the client is:
 ``` 
 python3 Client [server_IP] [file_name]
 ```
-Where "server_IP" is the IP of the server and "file_name" is the absolute path name of the file. \
-The file size is limited to 1 Gb.
+Where "server_IP" is the IP of the server and "file_name" is the absolute path name of the file.
