@@ -1,5 +1,0 @@
-This is a very important info that need to be transmitted.
-Another important line.
-This one is not as important as the one below.
-Another important line without final dot
-the dot.
